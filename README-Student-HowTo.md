@@ -102,7 +102,8 @@ Documentation: [envs_dirs](https://conda.io/projects/conda/en/latest/user-guide/
 To access a Jupyter notebook or Jupyter lab running on a remote server, you can use a SSH tunnel:
 
 1. Launch Jupyter notebook or lab on the node. As the port number XXXX, use the last four digits of your SCIPER number (to avoid colliding with other people on the same port): `jupyter notebook --no-browser --port=XXXX`
-2. Connect a second time to the remote server through SSH, setting up a SSH tunnel. Run the following command from your local machine (again replacing XXXX with the same port number): `ssh -L XXXX:localhost:XXXX [gasparname]@iccluster0NN.iccluster.epfl.ch`
+2. Connect a second time to the remote server through SSH, setting up a SSH tunnel. Run the following command from your local machine (again replacing XXXX with the same port number):    
+`ssh -L XXXX:localhost:XXXX [gasparname]@iccluster0NN.iccluster.epfl.ch`
 
 Your notebook is now accessible at `https://localhost:XXXX`. 
 
