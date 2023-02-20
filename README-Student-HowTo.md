@@ -1,5 +1,7 @@
 # LHST student projects - Technical documentation
 
+:warning: This documentation is being updated, not everything might be accurate. Ask your supervisors. :warning:
+
 Information for EPFL students doing a MA/BA semester project or master project at EPFL-LHST.
 
 See also information in these [slides](https://docs.google.com/presentation/d/1z6iEMMcHeRg0eRZqO0SqqvbVMh0pFAl-WYM3wPpPHRI/edit?usp=sharing) (EPFL only).
