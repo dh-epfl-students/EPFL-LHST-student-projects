@@ -132,8 +132,8 @@ In order to leave it open while you are executing things, you should run the not
 - `cd [your repo]`
 - `screen -S work` => you are in a screen named "work" where you will launch the notebook
 - activate your env
-- start the notebook as above (`jupyter notebook`)
-- check the url `http://iccluster0XX.iccluster.epfl.ch:XXXX` (where XXXX is the chosen port number)
+- start the notebook as above (`jupyter notebook --no-browser --port=XXXX`)
+- open the SSH tunnel as above
+- check the url `http://localhost:XXXX` (where XXXX is the chosen port number)
 - if all ok then exit the screen (`Ctr-a d`). You can now work in the notebook, open and close your browser as you want, it will keep running.
-
 
