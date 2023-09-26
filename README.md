@@ -4,7 +4,7 @@ List of BA & MA semester and master projects carried out at [EPFL’s Laboratory
 
 See also:
 
-- :wrench: our [technical documentation for students](https://github.com/dhlab-epfl-students/EPFL-LHST-student-projects/blob/main/README-Student-HowTo.md).
+- :wrench: our [technical documentation for students](https://github.com/dh-epfl-students/student-project-howtos).
 - :computer: our [student projects page](https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/) on the LHST website.
 
 :warning: **Page under construction, links are being added.** :warning:
