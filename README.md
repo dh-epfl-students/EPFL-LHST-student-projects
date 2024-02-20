@@ -9,7 +9,7 @@ See also:
 
 ### Fall 2023
 
-- …
+- [Mapping Open Science Platforms](https://github.com/LHST-EPFL/Mapping_OpenScience_Platform), MA semester project by **Salma Ed-Dahabi** (Data Science).
 
 ### Spring 2023
 
