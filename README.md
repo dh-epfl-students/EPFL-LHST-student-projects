@@ -7,6 +7,21 @@ See also:
 - :wrench: our [technical documentation for students](https://github.com/dh-epfl-students/student-project-howtos).
 - :computer: our [student projects page](https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/) on the LHST website.
 
+## Spring 2025
+
+- [Unsupervised Learning for Historical Patent Classification](https://github.com/dh-epfl-students/lhst-historical-patent-classification), MA research project by **Marine De Rocquigny Du Fayel**.
+- [The ‘ecosystem’ of open science: Tracing the Evolution of Ecological Metaphors in Discourses on the Digital Transition of Research](https://github.com/dh-epfl-students/lhst-ecosystem-of-open-science-network-analysis), MA research project by **Jérémie De Faveri**.
+- Les thèmes étudiés par les étudiantes en médecine durant leurs thèses à Paris (1870-1914), BA research project by **Georges Moussalli**.
+
+## Fall 2024
+
+- Understanding how men and women doctors approach medicine through health textbooks, between 1870 and 1940, MA research project by **Alexis Firome**.
+
+### Spring 2024
+
+- Tracing International Patent Flows Through Computer Vision, MA semester project by **Wiam Khedif** and **Yahya Hadi**.
+- Understanding Scholars’ Research Behaviour on Digital Libraries, MA semester project by **Anne-Laure Tettoni**.
+
 ### Fall 2023
 
 - [Mapping Open Science Platforms](https://github.com/LHST-EPFL/Mapping_OpenScience_Platform), MA semester project by **Salma Ed-Dahabi** (Data Science).
