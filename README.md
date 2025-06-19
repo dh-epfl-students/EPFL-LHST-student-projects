@@ -11,7 +11,7 @@ See also:
 
 - [Unsupervised Learning for Historical Patent Classification](https://github.com/dh-epfl-students/lhst-historical-patent-classification), MA research project by **Marine De Rocquigny Du Fayel**.
 - [The ‘ecosystem’ of open science: Tracing the Evolution of Ecological Metaphors in Discourses on the Digital Transition of Research](https://github.com/dh-epfl-students/lhst-ecosystem-of-open-science-network-analysis), MA research project by **Jérémie De Faveri**.
-- Les thèmes étudiés par les étudiantes en médecine durant leurs thèses à Paris (1870-1914), BA research project by **Georges Moussalli**.
+- [Les thèmes étudiés par les étudiantes en médecine durant leurs thèses à Paris (1870-1914)](https://github.com/dh-epfl-students/lhst-2025-moussalli-femmes-theses-medecine-Paris), BA research project by **Georges Moussalli**.
 
 ## Fall 2024
 
