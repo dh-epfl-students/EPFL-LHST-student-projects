@@ -7,6 +7,15 @@ See also:
 - :wrench: our [technical documentation for students](https://github.com/dh-epfl-students/student-project-howtos).
 - :computer: our [student projects page](https://www.epfl.ch/labs/lhst/laboratory-for-the-history-of-science-and-technology/student-projects/) on the LHST website.
 
+## Spring 2026
+
+- [The Ecology of Eucalyptus](https://github.com/dh-epfl-students/lhst-the-ecology-of-eucalyptus), MA research project by **André Da Gloria Santiago**.
+- [Quantifying The Invisible: Extraction structurée et analyse des listes « géographiques » des Guides Rosenwald (1887-1922)](https://github.com/dh-epfl-students/lhst-quantifying-invisible-rosenwald), MA research project by **Yassine Mamlouk**.
+
+## Fall 2026
+
+- Quantifying The Invisible: Women Doctors in the Rosenwald Guides (1887-1906), MA research project by **Yi Ren** (fork of repository with results [here](https://github.com/dh-epfl-students/lhst-yi-ren-rosenwald-extraction), see also [here](https://github.com/nmrenyi/double-triangle-annotation), [here](https://github.com/nmrenyi/extraire-tesseract-openai) and [here](https://github.com/nmrenyi/rosenwald-benchmark))
+
 ## Spring 2025
 
 - [Unsupervised Learning for Historical Patent Classification](https://github.com/dh-epfl-students/lhst-historical-patent-classification), MA research project by **Marine De Rocquigny Du Fayel**.
